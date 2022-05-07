@@ -24,3 +24,7 @@ FinAlgoritmo
 Enlace 
 ![Diagrama de flujo]
 https://user-images.githubusercontent.com/104747172/167234733-38b448f6-e58d-42e3-b8a6-4a43d97f3fa4.png
+
+Enlace
+Pag. Web
+file:///C:/Users/JOv23/OneDrive/Escritorio/Ensayo/Ensayo.html
