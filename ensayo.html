@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<HTML>
+	<HEAD>
+		<TITLE>INTERCAMBIAR_VALORES_DE_2_VARIABLES</TITLE>
+	</HEAD>
+	<BODY onload="intercambiar_valores_de_2_variables();">
+		<SCRIPT type="text/javascript">
+			//Este codigo ha sido generado por el modulo psexport 20180802-w32 de PSeInt.
+			//Es posible que el codigo generado no sea completamente correcto. Si encuentra
+			//errores por favor reportelos en el foro (http://pseint.sourceforge.net).
+
+			function intercambiar_valores_de_2_variables() {
+				var numa = new Number();
+				var numb = new Number();
+				var auxiliar = new Number();
+				document.write("Escribir el valor de A");
+				numa = Number(prompt());
+				document.write("Escribir el valor de b");
+				numb = Number(prompt());
+				auxiliar = numa;
+				numa = numb;
+				numb = auxiliar;
+				document.write("valor de A luego de intercambiar: ",numa,'<BR/>');
+				document.write("valor de B luego de intercambiar: ",numb,'<BR/>');
+			}
+
+			
+		</SCRIPT>
+	</BODY>
+</HTML>
